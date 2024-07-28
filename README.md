@@ -30,10 +30,6 @@ To use the N-Tester script, you need to install the required libraries. Follow t
    git clone https://github.com/yourusername/n-tester.git
    cd n-tester
 
-
-### Usage
-
-
 # Usage
 
 To run the N-Tester script, follow these steps:
@@ -46,9 +42,6 @@ To run the N-Tester script, follow these steps:
 2. Run the script:
 
 `python n-tester.py`
-
-
-### Output
 
 
 # Example Output
