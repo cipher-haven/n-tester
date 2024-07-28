@@ -45,16 +45,15 @@ To run the N-Tester script, follow these steps:
 
 2. Run the script:
 
-
 `python n-tester.py`
 
 
-### Example Usage
+### Output
 
 
-# Example Usage
+# Example Output
 
-When you run the script, you should see an output similar to the following:
+When you run N-Tester, you should see an output similar to the following:
 
 ```plaintext
 _____   __              ________           _____
